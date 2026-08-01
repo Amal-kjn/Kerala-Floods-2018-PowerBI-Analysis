@@ -44,3 +44,7 @@ The dashboard consists of multiple interactive visualizations designed to provid
 | 📊 Clustered Column Chart | Compares actual rainfall with normal rainfall for each district. |
 | 📈 Scatter Chart | Analyzes the relationship between rainfall and the number of fully damaged houses. |
 | 📌 KPI Cards | Summarize key metrics such as total fatalities, relief camps, and fully damaged houses. |
+
+## 📊 Dashboard Preview
+
+![Kerala Floods Dashboard](Screenshots/screenshot.png)
