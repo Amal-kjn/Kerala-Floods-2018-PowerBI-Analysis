@@ -35,3 +35,12 @@ The following preprocessing steps were performed before visualization:
 ---
 
 ## 📊 Dashboard Visualizations
+
+The dashboard consists of multiple interactive visualizations designed to provide a comprehensive overview of the impact of the 2018 Kerala floods.
+
+| Visualization | Purpose |
+|--------------|---------|
+| 🗺️ Filled Map | Displays district-wise rainfall intensity across Kerala. |
+| 📊 Clustered Column Chart | Compares actual rainfall with normal rainfall for each district. |
+| 📈 Scatter Chart | Analyzes the relationship between rainfall and the number of fully damaged houses. |
+| 📌 KPI Cards | Summarize key metrics such as total fatalities, relief camps, and fully damaged houses. |
