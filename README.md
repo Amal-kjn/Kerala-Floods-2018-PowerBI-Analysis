@@ -93,7 +93,7 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 The complete Power BI project is available in this repository.
 
-**Project File:** `kerala 2018 rainfall visual.pbip`
+**Project File:** `Kerala_Floods_2018_Dashboard.pbip`
 
 ---
 
