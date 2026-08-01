@@ -47,4 +47,4 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 ## 📊 Dashboard Preview
 
-![Kerala Floods Dashboard](Screenshots/screenshot.png)
+screenshot.png
