@@ -43,6 +43,7 @@ The dashboard consists of multiple interactive visualizations designed to provid
 | 🗺️ Filled Map | Displays district-wise rainfall intensity across Kerala. |
 | 📊 Clustered Column Chart | Compares actual rainfall with normal rainfall for each district. |
 | 📈 Scatter Chart | Analyzes the relationship between rainfall and the number of fully damaged houses. |
+| 📉 Bar Chart | Compares the number of landslides across districts to identify the most landslide-prone areas. |
 | 📌 KPI Cards | Summarize key metrics such as total fatalities, relief camps, and fully damaged houses. |
 
 ---
