@@ -1,21 +1,37 @@
-# Kerala-Floods-2018-PowerBI-Analysis
+# Kerala Floods 2018 Analysis Dashboard
 
- 📌 Project Overview
+## 📌 Project Overview
 
- This project presents an interactive Power BI dashboard analyzing the impact of the 2018 Kerala floods using district-wise disaster data. 
- The dashboard transforms raw data into meaningful visualizations to identify the most affected districts, analyze rainfall patterns, evaluate casualties and damages, and provide insights that can support disaster preparedness and response planning.
+This Power BI dashboard analyzes the impact of the 2018 Kerala floods using district-wise disaster data. The project transforms raw data into interactive visualizations to evaluate rainfall intensity, disaster impact, and district-level variations across Kerala.
+
+---
 
 ## 📂 Dataset
 
-- **Dataset:** district wise list.csv
+- **Dataset:** district_wise_details.csv
 - **Source:** Kerala State Disaster Management Authority (KSDMA)
-- **Original Report:** Additional Memorandum – Kerala Floods 2018
-- **Coverage:** District-wise flood statistics for all 14 districts of Kerala
+- **Coverage:** District-wise flood statistics for all 14 districts of Kerala.
 
-- ## 🎯 Objectives
+---
 
-- Analyze the overall impact of the 2018 Kerala floods.
-- Compare disaster impact across all districts.
-- Identify districts with the highest casualties and damages.
-- Analyze rainfall distribution and warning levels.
-- Present disaster data through interactive visualizations for easier interpretation.
+## 🎯 Objectives
+
+- Compare actual rainfall with normal rainfall across districts.
+- Identify districts most severely affected by the floods.
+- Analyze the relationship between rainfall and flood damage.
+- Provide interactive insights using Power BI visualizations.
+
+---
+
+## 🛠 Data Preparation
+
+The following preprocessing steps were performed before visualization:
+
+- Verified and corrected data types using Power Query.
+- Created **Excess Rainfall** calculated column.
+- Created **Percentage Deviation** from normal rainfall using DAX.
+- Cleaned and validated district-wise data.
+
+---
+
+## 📊 Dashboard Visualizations
