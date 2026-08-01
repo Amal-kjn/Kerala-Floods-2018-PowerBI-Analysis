@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This Power BI dashboard analyzes the impact of the 2018 Kerala floods using district-wise disaster data. The project transforms raw data into interactive visualizations to evaluate rainfall intensity, disaster impact, and district-level variations across Kerala.
+This Power BI dashboard analyzes the impact of the 2018 Kerala floods using district-wise disaster data. The project transforms raw data into interactive visualizations that highlight rainfall patterns, district-level damage, casualties, and key disaster metrics to support data-driven analysis.
 
 ---
 
@@ -17,9 +17,9 @@ This Power BI dashboard analyzes the impact of the 2018 Kerala floods using dist
 ## 🎯 Objectives
 
 - Compare actual rainfall with normal rainfall across districts.
-- Identify districts most severely affected by the floods.
+- Identify the districts most severely affected by the floods.
 - Analyze the relationship between rainfall and flood damage.
-- Provide interactive insights using Power BI visualizations.
+- Present disaster data through interactive Power BI visualizations.
 
 ---
 
@@ -28,9 +28,9 @@ This Power BI dashboard analyzes the impact of the 2018 Kerala floods using dist
 The following preprocessing steps were performed before visualization:
 
 - Verified and corrected data types using Power Query.
-- Created **Excess Rainfall** calculated column.
-- Created **Percentage Deviation** from normal rainfall using DAX.
-- Cleaned and validated district-wise data.
+- Created an **Excess Rainfall** calculated column.
+- Created a **Percentage Deviation** calculated column using DAX.
+- Cleaned and validated district-wise disaster data.
 
 ---
 
@@ -45,9 +45,13 @@ The dashboard consists of multiple interactive visualizations designed to provid
 | 📈 Scatter Chart | Analyzes the relationship between rainfall and the number of fully damaged houses. |
 | 📌 KPI Cards | Summarize key metrics such as total fatalities, relief camps, and fully damaged houses. |
 
+---
+
 ## 📊 Dashboard Preview
 
 ![Kerala Floods Dashboard](screenshot.png)
+
+---
 
 ## 📈 Key Insights
 
@@ -61,6 +65,8 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 - A total of **339 fatalities** were reported across Kerala during the 2018 floods, demonstrating the significant human impact of the disaster.
 
+---
+
 ## 💡 Recommendations
 
 - Strengthen flood mitigation and landslide monitoring systems in high-risk districts such as Idukki and Wayanad.
@@ -70,3 +76,29 @@ The dashboard consists of multiple interactive visualizations designed to provid
 - Improve early warning systems by integrating rainfall forecasts with district-level vulnerability assessments.
 
 - Prioritize resilient housing and infrastructure development in flood-prone regions to reduce future losses.
+
+---
+
+## 🧰 Tools Used
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Data Cleaning
+- Data Visualization
+
+---
+
+## 📥 Project Files
+
+The complete Power BI project is available in this repository.
+
+**Project File:** `kerala 2018 rainfall visual.pbip`
+
+---
+
+## 📚 Data Source
+
+Kerala State Disaster Management Authority (KSDMA)
+
+**Reference:** Additional Memorandum – Kerala Floods 2018
