@@ -49,4 +49,24 @@ The dashboard consists of multiple interactive visualizations designed to provid
 
 ![Kerala Floods Dashboard](screenshot.png)
 
+## 📈 Key Insights
 
+- **Idukki** received the highest rainfall during the 2018 floods, followed by **Wayanad**, while **Thiruvananthapuram** recorded the lowest rainfall among all districts.
+
+- **Thrissur** reported the highest number of fatalities (**72 deaths**) despite ranking only **7th** in total rainfall received. The district also recorded approximately **3,000 fully damaged houses**, indicating that flood severity was influenced by factors beyond rainfall alone.
+
+- **Kasaragod** experienced rainfall levels that were nearly identical to its normal rainfall, making it the least affected district in terms of rainfall deviation.
+
+- **Idukki** recorded the highest number of landslides, followed by **Wayanad**, highlighting the increased landslide risk in Kerala's hilly districts during extreme rainfall events.
+
+- A total of **339 fatalities** were reported across Kerala during the 2018 floods, demonstrating the significant human impact of the disaster.
+
+## 💡 Recommendations
+
+- Strengthen flood mitigation and landslide monitoring systems in high-risk districts such as Idukki and Wayanad.
+
+- Enhance disaster preparedness and evacuation planning in districts with historically high casualty rates.
+
+- Improve early warning systems by integrating rainfall forecasts with district-level vulnerability assessments.
+
+- Prioritize resilient housing and infrastructure development in flood-prone regions to reduce future losses.
