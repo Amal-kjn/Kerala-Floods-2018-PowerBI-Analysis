@@ -1,9 +1,9 @@
 # Kerala-Floods-2018-PowerBI-Analysis
 
-## 📌 Project Overview
+ 📌 Project Overview
 
-# This project presents an interactive Power BI dashboard analyzing the impact of the 2018 Kerala floods using district-wise disaster data. 
-# The dashboard transforms raw data into meaningful visualizations to identify the most affected districts, analyze rainfall patterns, evaluate casualties and damages, and provide insights that can support disaster preparedness and response planning.
+ This project presents an interactive Power BI dashboard analyzing the impact of the 2018 Kerala floods using district-wise disaster data. 
+ The dashboard transforms raw data into meaningful visualizations to identify the most affected districts, analyze rainfall patterns, evaluate casualties and damages, and provide insights that can support disaster preparedness and response planning.
 
 ## 📂 Dataset
 
